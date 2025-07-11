@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "768147535898",
+    "project_id": "dukaan-17e4b",
+    "storage_bucket": "dukaan-17e4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768147535898:android:ecc760778ebf367aed39a3",
+        "android_client_info": {
+          "package_name": "com.example.dukaaan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGL2iWwsyzChVA8QE4edK4Kbu8jyuaf_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768147535898:android:03210a40fb47b7a2ed39a3",
+        "android_client_info": {
+          "package_name": "com.tech.dukaan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGL2iWwsyzChVA8QE4edK4Kbu8jyuaf_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
